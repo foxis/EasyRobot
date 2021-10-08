@@ -1,3 +1,6 @@
+
+> *!!!IMPORTANT!!!* This repository is being discontinued. All the development is being moved to https://github.com/itohio/ESPReflow.
+
 # EasyRobot Golang implementation
 
 This repo brings together EasyLocomotion, EasyVision, EasyNetwork concepts and ideas into one big cross platform project.
